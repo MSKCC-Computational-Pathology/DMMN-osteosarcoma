@@ -1,7 +1,7 @@
 # Osteosarcoma Segmentation
 This repository provides source code for osteosarcoma segmentation using Deep Multi-Magnification Network. Deep Multi-Magnification Network automatically segments multiple tissue subtypes by a set of patches from multiple magnifications in histopathology whole slide images. The original Deep Multi-Magnification Network paper is published [here](https://doi.org/10.1016/j.compmedimag.2021.101866) and its training and inference codes can be found [here](https://github.com/MSKCC-Computational-Pathology/DMMN).
 
-<img src="DMMN-osteosarcoma.jpg" width="100%" align="center" />
+[<img src="DMMN-osteosarcoma.jpg" width="100%" align="center" />](https://arxiv.org/abs/2208.04910)
 
 ## Prerequisites
 * Python 3.6.7
@@ -32,12 +32,12 @@ This project is under the CC-BY-NC 4.0 license. See [LICENSE](LICENSE.md) for de
 * This code is inspired by [pytorch-semseg](https://github.com/meetps/pytorch-semseg) and [MICCAI 2017 Robotic Instrument Segmentation](https://github.com/ternaus/robot-surgery-segmentation).
 
 ## Reference
-If you find our work useful, please cite our paper:
+If you find our work useful, please cite our [paper](https://arxiv.org/abs/2208.04910):
 ```
 @article{ho2022,
   title={Deep Learning-Based Objective and Reproducible Osteosarcoma Chemotherapy Response Assessment and Outcome Prediction},
   author={Ho, David Joon and Agaram, Narasimhan P. and Jean, Marc-Henri and Suser, Stephanie D. and Chu, Cynthia and Vanderbilt, Chad M. and Meyers, Paul A. and Wexler, Leonard H. and Healey, John H. and Fuchs, Thomas J. and Hameed, Meera R.},
-  journal={arXiv preprint arXiv:2208.xxxxx},
+  journal={arXiv preprint arXiv:2208.04910},
   year={2022},
   month={August}
 }

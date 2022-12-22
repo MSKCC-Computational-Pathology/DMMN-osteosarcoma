@@ -32,13 +32,11 @@ This project is under the CC-BY-NC 4.0 license. See [LICENSE](LICENSE.md) for de
 * This code is inspired by [pytorch-semseg](https://github.com/meetps/pytorch-semseg) and [MICCAI 2017 Robotic Instrument Segmentation](https://github.com/ternaus/robot-surgery-segmentation).
 
 ## Reference
-If you find our work useful, please cite our [paper](https://arxiv.org/abs/2208.04910):
+If you find our work useful, please cite our [paper](https://doi.org/10.1016/j.ajpath.2022.12.004):
 ```
-@article{ho2022,
+@article{ho2023,
   title={Deep Learning-Based Objective and Reproducible Osteosarcoma Chemotherapy Response Assessment and Outcome Prediction},
   author={Ho, David Joon and Agaram, Narasimhan P. and Jean, Marc-Henri and Suser, Stephanie D. and Chu, Cynthia and Vanderbilt, Chad M. and Meyers, Paul A. and Wexler, Leonard H. and Healey, John H. and Fuchs, Thomas J. and Hameed, Meera R.},
-  journal={arXiv preprint arXiv:2208.04910},
-  year={2022},
-  month={August}
+  journal={The American Journal of Pathology}
 }
 ```

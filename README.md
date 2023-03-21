@@ -39,9 +39,9 @@ If you find our work useful, please cite our [paper](https://doi.org/10.1016/j.a
   author={Ho, David Joon and Agaram, Narasimhan P. and Jean, Marc-Henri and Suser, Stephanie D. and Chu, Cynthia and Vanderbilt, Chad M. and Meyers, Paul A. and Wexler, Leonard H. and Healey, John H. and Fuchs, Thomas J. and Hameed, Meera R.},
   journal={The American Journal of Pathology},
   year={2023},
-  month = {March},
-  volume = {193},
-  number = {3},
-  pages = {341--349}
+  month={March},
+  volume={193},
+  number={3},
+  pages={341--349}
 }
 ```
